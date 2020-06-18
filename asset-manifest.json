@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/ocean_todolist/static/js/main.7799c2fd.chunk.js",
+    "main.js.map": "/ocean_todolist/static/js/main.7799c2fd.chunk.js.map",
+    "runtime-main.js": "/ocean_todolist/static/js/runtime-main.928735ca.js",
+    "runtime-main.js.map": "/ocean_todolist/static/js/runtime-main.928735ca.js.map",
+    "static/js/2.4841ec6c.chunk.js": "/ocean_todolist/static/js/2.4841ec6c.chunk.js",
+    "static/js/2.4841ec6c.chunk.js.map": "/ocean_todolist/static/js/2.4841ec6c.chunk.js.map",
+    "index.html": "/ocean_todolist/index.html",
+    "precache-manifest.6a3473709f9475e3c3f87a86e445aadf.js": "/ocean_todolist/precache-manifest.6a3473709f9475e3c3f87a86e445aadf.js",
+    "service-worker.js": "/ocean_todolist/service-worker.js",
+    "static/js/2.4841ec6c.chunk.js.LICENSE.txt": "/ocean_todolist/static/js/2.4841ec6c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.928735ca.js",
+    "static/js/2.4841ec6c.chunk.js",
+    "static/js/main.7799c2fd.chunk.js"
+  ]
+}
