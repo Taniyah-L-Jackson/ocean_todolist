@@ -5,3 +5,5 @@ An ocean-themed todo-list
 * Designed site with Bootstrap and CSS styles
 * Created functions that allow tasks to be added and removed in React
 * Developed a component that allows the task's decription to be updated in React
+
+```Built using HTML, CSS, and React```
